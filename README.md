@@ -1,3 +1,2 @@
 # hello-world
-Teste
-Estou aprendendo essa biroscaaaaa
+aprendendo essa biroscaaaaa
